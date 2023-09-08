@@ -242,7 +242,7 @@ export const projects = [
       "S3 Bucket",
     ],
     category: "Cloud App",
-    github: "{https://github.com/s-abhimanyu/Customer_Feedback_Website",
+    github: "https://github.com/s-abhimanyu/Customer_Feedback_Website",
     member: [
       {
         name: "S Abhimanyu",
@@ -274,6 +274,6 @@ export const projects = [
       "Style-Components",
     ],
     category: "Web App",
-    github: "https://github.com/s-abhimanyu/Power-Bi",
+    github: "https://github.com/s-abhimanyu/Portfolio",
   },
 ];
