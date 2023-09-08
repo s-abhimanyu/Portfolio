@@ -114,6 +114,16 @@ export const skills = [
         image:
           "https://raw.githubusercontent.com/s-abhimanyu/Images/main/aws.png",
       },
+      {
+        name: "Netlify",
+        image:
+          "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+      },
+      {
+        name: "EmailJs",
+        image:
+          "https://raw.githubusercontent.com/s-abhimanyu/Images/main/EMAIL-JS.png",
+      },
     ],
   },
 ];
